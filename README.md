@@ -1,5 +1,5 @@
 # proyectoenlinea2026
-proyecto del Submodulo crea Aplicaciones con Frameworks de Luis Marquez y Manuel Villarreal
+proyecto del Submodulo crea Aplicaciones con Frameworks de Luis Marquez y Manuel peñaloza
 
 este es el proyecto final de submodulo 1
 que se estará evaluando constantemente
