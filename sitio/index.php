@@ -74,7 +74,7 @@
 				<div class="row">
 					<div class="col-sm-4">
 						<div class="logo pull-left">
-							<a href="index.php"><img src="images/home/logo.png" alt="" /></a>
+							<a href="index.php"><img src="images/home/logo.png" alt="" width="35%" height="25%" /></a>
 			<H3>Proyecto de:Luis marquez y Manuel peñaloza </H3>
 			<H4>3ero Programacion Vespert </H4>
 						</div>						
@@ -174,7 +174,8 @@
 						<div class="panel-group category-products" id="accordian"><!--category-productsr-->
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Categoría 1</a></h4>
+									<h4 class="panel-title"><a href="#">Damas</a></h4>
+									<h4 class="panel-title"><a href="#">Caballeros</a></h4>
 								</div>
 							</div>
 						</div><!--/category-products-->
@@ -206,8 +207,8 @@
 										</div>
 										<div class="product-overlay">
 											<div class="overlay-content">
-												<h2>$56</h2>
-												<p>Producto 1</p>
+												<h2><?php echo $BDProductos[2][$i]; ?></h2>
+												<p><?php echo $BDProductos[1][$i]; ?></p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Agregar al Carrito</a>
 											</div>
 										</div>
